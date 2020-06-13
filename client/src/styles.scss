@@ -8,12 +8,14 @@ body,
   height: 100%;
   margin: 0;
   padding: 0;
+
 }
 
 .App {
   font-family: "Montserrat", sans-serif;
   text-align: center;
   display: flex;
+  flex-direction: column;
 
   svg {
     height: 100%;
@@ -80,7 +82,7 @@ form {
   }
 
   input {
-    width: 100px;
+    width: 25%;
   }
 }
 
@@ -95,5 +97,15 @@ form {
     color: white;
     padding: 3px 8px;
     margin-top: 16px;
+  }
+}
+
+.btn {
+  width: 25%;
+}
+
+.links {
+  li {
+    text-decoration: none;
   }
 }
