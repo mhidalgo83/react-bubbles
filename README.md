@@ -31,7 +31,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What steps can you take in your web apps to keep your data secure?
       Through using authentication, we can ensure that only the specified user can view, change, and use data that may be sensitive.
-
+      
 - [ ] Describe how web servers work.
       There are two types of servers. There is the physical server, where code is hosted and loaded from when requested through the internet. There is also a server in our software, which is used to serve web pages from the physical server to the client.
       
